@@ -1,0 +1,2 @@
+IE8 has a bug where it will lose @font-face when a frame is dynamically added to or removed from a document.
+This function corrects this issue by reloading the CSS file that includes the @font-face declarations.
